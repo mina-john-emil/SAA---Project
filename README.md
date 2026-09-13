@@ -5,7 +5,7 @@ project brief by Ayman Aly Mahmoud.
 
 ## Architecture
 
-![Solution architecture diagram](architecture-diagram.svg)
+
 
 A production-grade web application deployed on EC2 inside a VPC with public and
 private subnets across two Availability Zones. High availability and scalability
